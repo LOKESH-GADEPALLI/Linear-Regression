@@ -9,12 +9,29 @@ By accurately predicting demand, BoomBikes can ensure adequate bike availability
 ## Business Goal 
 The business goal is to model shared bike demand using various independent variables. This will help management understand demand variations, allowing them to adjust strategies to meet customer expectations and optimize operations. Additionally, the model will provide insights into demand dynamics for potential new markets
 
+# Table of content 
+Data Read
+Data check 
+   Null checks
+   Duplicate check
+Data cleaning 
+   Correlation of Data
+   Check Unique values
+Data Visualization 
+HeatMap
+SK learn Pacakges 
 # Technologies Used
 Pandas 
 Numpy 
 Seaborn 
 Statsmodels 
 Sklearn 
+Linear Reagression 
+Models
+R - square values
+Conclussion
+
+
 # Conclussion 
 Understanding various factors like holidays, temperature, humidity, windspeed, seasons, specific months, and year-over-year trends is crucial for predicting and managing bike-sharing demand. These variables significantly influence biking behavior, with higher temperatures and weekends generally increasing demand, while adverse weather conditions and high windspeed reduce it. By analyzing these factors, BoomBikes can optimize marketing, fleet management, and service provision.
 This data-driven approach will enable the company to meet customer expectations, improve operational efficiency, and strategically plan for demand fluctuations, ultimately supporting the company's recovery and growth post-pandemic.
