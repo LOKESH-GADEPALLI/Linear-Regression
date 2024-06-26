@@ -9,27 +9,28 @@ By accurately predicting demand, BoomBikes can ensure adequate bike availability
 ## Business Goal 
 The business goal is to model shared bike demand using various independent variables. This will help management understand demand variations, allowing them to adjust strategies to meet customer expectations and optimize operations. Additionally, the model will provide insights into demand dynamics for potential new markets
 
-# Table of content 
-Data Read
-Data check 
-   Null checks
-   Duplicate check
-Data cleaning 
-   Correlation of Data
-   Check Unique values
-Data Visualization 
-HeatMap
-SK learn Pacakges 
+## Table of content 
+*Data Read
+*Data check 
+   - Null checks
+   - Duplicate check
+*Data cleaning 
+   - Correlation of Data
+   - Check Unique values
+* Data Visualization 
+* HeatMap
+* SK learn Pacakges
+* Linear Reagression 
+* Models
+* R - square values
+* Conclussion 
+
 # Technologies Used
-Pandas 
-Numpy 
-Seaborn 
-Statsmodels 
-Sklearn 
-Linear Reagression 
-Models
-R - square values
-Conclussion
+* Pandas 
+* Numpy 
+* Seaborn 
+* Statsmodels 
+* Sklearn 
 
 
 # Conclussion 
